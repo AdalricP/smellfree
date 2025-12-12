@@ -1,0 +1,15 @@
+# Binaries
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+¯
+# Debugging and IDE files
+.vscode/
+*.swp
+*.bak
+*.tmp
+*~
+¯
